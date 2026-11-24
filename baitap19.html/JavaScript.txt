@@ -1,0 +1,5 @@
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Portfolio của Mã Thị Kim Thoa đã tải thành công!');
+
+    alert('Chào mừng bạn đến với Portfolio của Kim Thoa!');
+});
